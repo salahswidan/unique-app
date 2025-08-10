@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.ahmed" "\0"
-            VALUE "FileDescription", "unique" "\0"
+            VALUE "CompanyName", "com.example" "\0"
+            VALUE "FileDescription", "poster_app" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "unique" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2025 com.ahmed. All rights reserved." "\0"
-            VALUE "OriginalFilename", "unique.exe" "\0"
-            VALUE "ProductName", "unique" "\0"
+            VALUE "InternalName", "poster_app" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2025 com.example. All rights reserved." "\0"
+            VALUE "OriginalFilename", "poster_app.exe" "\0"
+            VALUE "ProductName", "poster_app" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
