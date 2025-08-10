@@ -1,4 +1,4 @@
-# unique
+# poster_app
 
 A new Flutter project.
 
