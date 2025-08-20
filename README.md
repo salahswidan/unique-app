@@ -114,4 +114,3 @@ Push notifications for order status.
 This project is licensed under the MIT License - see the LICENSE
  file for details.
 
-تحب أكتبلك نسخة تانية من الـ README تكون معمولة style أكتر (بـ badges & screenshots sections) بحيث تبان احترافية قدام أي شركة؟
